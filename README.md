@@ -46,14 +46,14 @@ This repository contains the source code and assets for a static website dedicat
 5. **Custom Domain Name:**
    - Configured to provide a branded and personalized website URL
 
-Domain Registration:
-Register a domain name through a domain registrar.
+      Domain Registration:
+         Register a domain name through a domain registrar.
 
-DNS Configuration:
-Configure the DNS settings to point to the Azure Web Apps URL.
+      DNS Configuration:
+         Configure the DNS settings to point to the Azure Web Apps URL.
 
-Azure Configuration:
-In the Azure portal, configure the custom domain name for the Web App.
+      Azure Configuration:
+         In the Azure portal, configure the custom domain name for the Web App.
 
 6. **Azure Monitoring Setup:**
    - Set up Azure monitoring services to monitor the website's performance and health.
