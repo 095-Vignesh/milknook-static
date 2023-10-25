@@ -22,7 +22,8 @@ This repository contains the source code and assets for a static website dedicat
 - **HTML:** Markup language for creating the structure of web pages.
 - **CSS:** Stylesheets for enhancing the visual presentation of the website.
 - **JavaScript:** Programming language for adding interactivity and dynamic elements.
-- **Azure webapp:** Cloud-based webapp used to deploy static website.
+- **Azure webapps:** Used for hosting the static website, ensuring high availability and scalability.
+- **Custom Domain Name:** Configured to provide a branded and personalized website URL.
 - **Azure Monitoring:** Monitoring services to track the website's performance and health.
 
 ## Setup and Installation
@@ -41,8 +42,20 @@ This repository contains the source code and assets for a static website dedicat
    - Double click on `index.html` to open the website locally in your browser.
 
 4. **Azure webapp Setup:**
+   - Used for hosting the static website, ensuring high availability and scalability.
+5. **Custom Domain Name:**
+   - Configured to provide a branded and personalized website URL
 
-5. **Azure Monitoring Setup:**
+Domain Registration:
+Register a domain name through a domain registrar.
+
+DNS Configuration:
+Configure the DNS settings to point to the Azure Web Apps URL.
+
+Azure Configuration:
+In the Azure portal, configure the custom domain name for the Web App.
+
+6. **Azure Monitoring Setup:**
    - Set up Azure monitoring services to monitor the website's performance and health.
 
 ## Usage
