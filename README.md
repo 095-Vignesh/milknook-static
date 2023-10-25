@@ -28,7 +28,7 @@ This repository contains the source code and assets for a static website dedicat
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/milk-product-website.git
+   https://github.com/060-NAVEENKUMARM/milknook-static
    ```
 
 2. **Navigate to the Project Directory:**
