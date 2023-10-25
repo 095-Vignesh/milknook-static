@@ -49,3 +49,5 @@ This repository contains the source code and assets for a static website dedicat
 
 1. Access the website through the domain name or the virtual machine's IP address.
 2. Explore the milk products, read product details, and navigate the website using the intuitive user interface.
+
+## Demo images
