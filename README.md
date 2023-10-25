@@ -8,6 +8,7 @@ This repository contains the source code and assets for a static website dedicat
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
+- Demo images
 
 ## Features
 
