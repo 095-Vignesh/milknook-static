@@ -51,3 +51,4 @@ This repository contains the source code and assets for a static website dedicat
 2. Explore the milk products, read product details, and navigate the website using the intuitive user interface.
 
 ## Demo images
+![1](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/695533c3-bf59-4e9b-a50e-8710c474ba06)
