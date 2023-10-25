@@ -52,3 +52,11 @@ This repository contains the source code and assets for a static website dedicat
 
 ## Demo images
 ![1](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/695533c3-bf59-4e9b-a50e-8710c474ba06)
+![2](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/a21712d4-0515-4d4b-8104-588cda290da2)
+![3](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/ba509e71-2138-4d94-9106-a4e24e6a4359)
+![4](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/22403057-560e-4240-96b7-2167d7df243f)
+![5](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/077cb70e-2e0c-41ca-8ff4-49084463e35f)
+![6](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/3d175560-1997-4dd6-9f1c-289b0a2f19f0)
+![7](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/4add81b4-61c1-4735-a21d-dd30affe6118)
+![8](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/4870a6b3-4877-4368-ae1e-8fde2dae6716)
+![9](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/c84b2b5c-da04-4ec1-9050-1a5fbb09b657)
