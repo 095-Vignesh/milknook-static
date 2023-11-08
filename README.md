@@ -64,6 +64,9 @@ This repository contains the source code and assets for a static website dedicat
 2. Explore the milk products, read product details, and navigate the website using the intuitive user interface.
 
 ## Demo images
+![Screenshot (156)](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/0bffde2c-d798-4aca-9096-b4a5cb801ebc)
+![Screenshot (157)](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/a4b245c7-cc3b-4d43-868c-436b36ce5a85)
+![Screenshot (158)](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/5bdc0f4d-3968-4783-b9e8-04c8a6f62d13)
 ![1](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/695533c3-bf59-4e9b-a50e-8710c474ba06)
 ![2](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/a21712d4-0515-4d4b-8104-588cda290da2)
 ![3](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/ba509e71-2138-4d94-9106-a4e24e6a4359)
