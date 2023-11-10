@@ -1,5 +1,5 @@
 # milknook
-# Milk Product Static Website
+# Milk Product Website
 
 This repository contains the source code and assets for a static website dedicated to milk products. The website is built using HTML, CSS, and JavaScript. Additionally, it is hosted on an Azure webapp and monitoring services are set up to ensure the website's performance and availability.
 
