@@ -76,3 +76,5 @@ This repository contains the source code and assets for a static website dedicat
 ![7](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/4add81b4-61c1-4735-a21d-dd30affe6118)
 ![8](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/4870a6b3-4877-4368-ae1e-8fde2dae6716)
 ![9](https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/c84b2b5c-da04-4ec1-9050-1a5fbb09b657)
+<img width="960" alt="Screenshot 2023-11-10 211116" src="https://github.com/060-NAVEENKUMARM/milknook-static/assets/113582263/1ad59f4f-66e3-41b4-ac91-22e8fdc67436">
+
